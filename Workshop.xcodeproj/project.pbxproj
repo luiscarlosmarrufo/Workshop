@@ -14,6 +14,7 @@
 		9B291B302B1FE0EB00DFE4BA /* WorkshopTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B291B2F2B1FE0EB00DFE4BA /* WorkshopTests.swift */; };
 		9B291B3A2B1FE0EB00DFE4BA /* WorkshopUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B291B392B1FE0EB00DFE4BA /* WorkshopUITests.swift */; };
 		9B291B3C2B1FE0EB00DFE4BA /* WorkshopUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B291B3B2B1FE0EB00DFE4BA /* WorkshopUITestsLaunchTests.swift */; };
+		9B96861E2B1FEB720009AF41 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B96861D2B1FEB720009AF41 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		9B291B352B1FE0EB00DFE4BA /* WorkshopUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorkshopUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B291B392B1FE0EB00DFE4BA /* WorkshopUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkshopUITests.swift; sourceTree = "<group>"; };
 		9B291B3B2B1FE0EB00DFE4BA /* WorkshopUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorkshopUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9B96861D2B1FEB720009AF41 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				9B291B1E2B1FE0E800DFE4BA /* WorkshopApp.swift */,
 				9B291B202B1FE0E800DFE4BA /* ContentView.swift */,
+				9B96861D2B1FEB720009AF41 /* SwiftUIView.swift */,
 				9B291B222B1FE0EA00DFE4BA /* Assets.xcassets */,
 				9B291B242B1FE0EA00DFE4BA /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				9B291B212B1FE0E800DFE4BA /* ContentView.swift in Sources */,
 				9B291B1F2B1FE0E800DFE4BA /* WorkshopApp.swift in Sources */,
+				9B96861E2B1FEB720009AF41 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
